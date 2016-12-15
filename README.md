@@ -1,5 +1,5 @@
 # hello-world
-just another sample repository
+deleted line
 line 2
 line 3
 line 4
